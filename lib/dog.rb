@@ -3,3 +3,5 @@ class Dog
     @dog_nameiv = dog_name 
   end
 end
+
+fido.name = "Fido"
