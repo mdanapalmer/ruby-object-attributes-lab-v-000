@@ -8,5 +8,5 @@ class Dog
   end
 end
 
-def 
+def name = (new_name)
 
