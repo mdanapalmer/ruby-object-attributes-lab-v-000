@@ -7,8 +7,5 @@ class Dog
   end
 end
 
-fido = Dog.new 
-fido.name = dog_name
-
 
 
